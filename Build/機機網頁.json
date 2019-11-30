@@ -1,0 +1,16 @@
+{
+"companyName": "博",
+"productName": "雞雞飛飛",
+"productVersion": "0.1",
+"dataUrl": "機機網頁.data.unityweb",
+"wasmCodeUrl": "機機網頁.wasm.code.unityweb",
+"wasmFrameworkUrl": "機機網頁.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.11f1"
+}
